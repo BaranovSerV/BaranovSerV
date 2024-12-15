@@ -33,6 +33,6 @@
 
 ## 💬 Контакты
 
-- 🐦 **Telegram**: [@yourusername](https://t.me/grandmaslippers)
+- 🐦 **Telegram**: [grandmaslippers](https://t.me/grandmaslippers)
 
 ---
